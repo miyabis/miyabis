@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![MiYABiS GitHub stats](https://github-readme-stats.vercel.app/api?username=miyabis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![MiYABiS GitHub trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&margin-w=18&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![MiYABiS GitHub trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&row=2&column=4&margin-w=18&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
